@@ -1,0 +1,2 @@
+# goget
+go and get
